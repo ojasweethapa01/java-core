@@ -2,13 +2,19 @@ package day2;
 
 public class Menu {
      /*
-        Menu Id
-        Menu Name
-        Parent Menu Id
-        Is Leaf
-        Slug
+        Menu Id (long)
+        Menu Name  (string)
+        Parent Menu Id (long)
+        Is Leaf (boolean)
+        Slug (string)
      */
 }
+/*
+    long menuIdl;
+
+    String menuName;
+    long parentMenuId;
+    */
 
 /*
     Women Fashion
@@ -17,12 +23,16 @@ public class Menu {
     Parent Menu Id - 0
     Is Leaf - false
     Slug - women-fashion
+
+
     Men's Fashion
     Menu Id - 2
     Menu Name - Men's Fashion
     Parent Menu Id - 0
      Is Leaf - false
      slug - men-fashion
+
+
     Women Fashion -> Clothing
     Menu Id - 3
     Menu Name - Clothing

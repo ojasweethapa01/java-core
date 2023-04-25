@@ -4,7 +4,7 @@ public class Cart {
     /*
         select the item
         product details
-        quantity : 3
+        quantity
         size of the product (0.5-Ounce )
         price of the product
         delete the product

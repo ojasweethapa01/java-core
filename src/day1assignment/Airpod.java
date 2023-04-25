@@ -4,16 +4,16 @@ public class Airpod {
 
      /*
     states
-    -> Brand
-    -> Model Name
-    -> size of the products
-    -> series
-    -> ProductLaunch Date
-    -> Product Color
-    -> Connectivity Technology
-    -> Charging Capacity
-    ->  Price
-    ->  Wireless Charger
+    -> Brand (string)
+    -> Model Name  (string)
+    -> size of the products (string)
+    -> series (string)
+    -> ProductLaunch Date (integer)
+    -> Product Color (string)
+    -> Connectivity Technology (string)
+    -> Charging Capacity (string)
+    ->  Price (short)
+    ->  Charger (string)
     ->
      */
 }
