@@ -8,6 +8,16 @@ public class Menu {
         Is Leaf (boolean)
         Slug (string)
      */
+
+    long menuId;
+
+    String menuName;
+
+    long parentMenuId;
+
+    boolean isLeaf;
+
+    String slug ;
 }
 /*
     long menuIdl;
